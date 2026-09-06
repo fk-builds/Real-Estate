@@ -1,0 +1,10 @@
+const puppeteer=require("puppeteer");
+(async()=>{const b=await puppeteer.launch({args:["--no-sandbox"]});
+const p=await b.newPage(); await p.setViewport({width:390,height:820,isMobile:true,hasTouch:true,deviceScaleFactor:2});
+await p.goto("http://localhost:3000/",{waitUntil:"networkidle2",timeout:60000});
+const y=await p.evaluate(()=>{const el=[...document.querySelectorAll('section')].find(s=>{const t=s.textContent||'';return t.includes('Client retention')&&t.includes('Major cities')&&!t.includes('Advisor');}); return el?window.scrollY+el.getBoundingClientRect().top:0;});
+console.log('target y',y);
+await p.evaluate(yy=>window.scrollTo(0,Math.max(0,yy-40)), y);
+await new Promise(r=>setTimeout(r,600));
+await p.screenshot({path:"/home/user/uploads/home_stats_clean.png"});
+await b.close();})().catch(e=>{console.error("ERR",e);process.exit(1);});

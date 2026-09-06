@@ -1,0 +1,1757 @@
+{
+  "listings": [
+    {
+      "id": "1",
+      "slug": "modern-luxury-villa-dha-phase-8-lahore",
+      "title": "1 Kanal Modern Luxury Villa, DHA Phase 8",
+      "headline": "Newly built contemporary villa",
+      "kind": "house",
+      "areaLabel": "DHA Phase 8",
+      "citySlug": "lahore",
+      "cityName": "Lahore",
+      "subArea": "Block J",
+      "price": 145000000,
+      "featured": true,
+      "tagKind": "sale",
+      "tagLabel": "FEATURED",
+      "beds": 5,
+      "baths": 7,
+      "areaRaw": "8,600 sqft",
+      "views": 1240,
+      "isNew": true,
+      "coverImage": "/images/hero.jpg",
+      "features": [
+        "1 Kanal covered house",
+        "Boundary wall & gate",
+        "Solar-ready wiring",
+        "Ownership & title verified",
+        "Bore + main water",
+        "Corner plot, 30ft road",
+        "Lift / internal staircase",
+        "Backyard lawn"
+      ],
+      "description": "An exquisite 1-Kanal contemporary villa set in the most coveted block of DHA Phase 8, Lahore. Triple-height lounge, marble finishes, smart home wiring, five ensuite bedrooms and a landscaped private courtyard. Steps from the central park and the Phase 8 commercial strip. Full title verification completed by Manzil's legal desk.",
+      "purpose": "sale",
+      "currency": "PKR",
+      "priceUnit": "pkr_total",
+      "status": "available",
+      "verified": true,
+      "pricePeriod": "one_time",
+      "priceDisplay": "PKR 14.5 Cr",
+      "gallery": [
+        "/images/hero.jpg",
+        "/images/interior-living.jpg",
+        "/images/bedroom-suite.jpg"
+      ],
+      "postedLabel": "Today",
+      "published": true,
+      "locationId": "dha-ph8-blk-j",
+      "plotNumber": "House 12-A",
+      "areaUnit": "sqft",
+      "areaNumber": 8600,
+      "floors": 2,
+      "constructionYear": 2024,
+      "furnishingStatus": "unfurnished",
+      "possessionStatus": "ready",
+      "street": "Street 25",
+      "latitude": 31.4287,
+      "longitude": 74.3987,
+      "attributes": {
+        "carPorch": 2,
+        "solarReady": true,
+        "internalLift": true,
+        "garage": 2
+      },
+      "listedAt": 1788220800000,
+      "media": [
+        {
+          "kind": "photo",
+          "url": "/images/hero.jpg",
+          "isCover": true,
+          "sort": 0,
+          "caption": "Front elevation \u2014 corner villa on a 30-ft road",
+          "alt": "Front elevation of a 1 Kanal modern luxury villa in DHA Phase 8"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/interior-living.jpg",
+          "sort": 1,
+          "caption": "Double-height lounge with marble finishes",
+          "alt": "Double-height lounge interior"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/bedroom-suite.jpg",
+          "sort": 2,
+          "caption": "En-suite master bedroom",
+          "alt": "En-suite master bedroom interior"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/villa-modern-white.jpg",
+          "sort": 3,
+          "caption": "Side & rear garden elevation",
+          "alt": "Rear garden elevation of the villa"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/city-marquee.jpg",
+          "sort": 4,
+          "caption": "Community & location context",
+          "alt": "Aerial context of the DHA Phase 8 community"
+        },
+        {
+          "kind": "floorplan",
+          "url": "/media/floorplan-ground.png",
+          "sort": 0,
+          "name": "Ground floor plan",
+          "caption": "Ground floor layout",
+          "alt": "Ground floor plan"
+        },
+        {
+          "kind": "floorplan",
+          "url": "/media/floorplan-first.png",
+          "sort": 1,
+          "name": "First floor plan",
+          "caption": "First floor layout",
+          "alt": "First floor plan"
+        },
+        {
+          "kind": "document",
+          "url": "/media/property-dossier.pdf",
+          "sort": 0,
+          "name": "Property dossier.pdf",
+          "caption": "Full title-verified dossier",
+          "contentType": "application/pdf",
+          "size": 115201
+        },
+        {
+          "kind": "video",
+          "url": "https://www.youtube.com/embed/jNQXAC9IVRw",
+          "sort": 0,
+          "name": "Walkthrough video",
+          "caption": "Live 3-min walkthrough"
+        },
+        {
+          "kind": "virtual_tour",
+          "url": "https://my.matterport.com/show/?m=DEMO-8PHASE",
+          "sort": 0,
+          "name": "3D virtual tour",
+          "caption": "Explore the whole property in 3D"
+        }
+      ],
+      "featureKeys": [
+        "electricity",
+        "gas",
+        "water",
+        "sewerage",
+        "boundary-wall",
+        "security",
+        "cctv",
+        "parking",
+        "servant-quarter",
+        "park-facing",
+        "corner",
+        "gym"
+      ]
+    },
+    {
+      "id": "2",
+      "slug": "10-marla-family-home-bahria-town-rawalpindi",
+      "title": "10 Marla Family Home, Bahria Town",
+      "kind": "house",
+      "areaLabel": "Bahria Town",
+      "citySlug": "rawalpindi",
+      "cityName": "Rawalpindi",
+      "subArea": "Phase 7",
+      "price": 72000000,
+      "tagKind": "new",
+      "tagLabel": "NEW",
+      "beds": 4,
+      "baths": 5,
+      "areaRaw": "4,200 sqft",
+      "views": 860,
+      "coverImage": "/images/villa-modern-white.jpg",
+      "purpose": "sale",
+      "currency": "PKR",
+      "priceUnit": "pkr_total",
+      "status": "under_offer",
+      "description": "10 Marla Family Home, Bahria Town is offered for sale in Rawalpindi. Title-verified by Manzil's legal desk with clear possession and active utilities. Negotiable with clean paperwork and quick transfer assistance.",
+      "verified": true,
+      "featured": false,
+      "isNew": false,
+      "pricePeriod": "one_time",
+      "priceDisplay": "PKR 7.2 Cr",
+      "gallery": [
+        "/images/villa-modern-white.jpg",
+        "/images/interior-living.jpg",
+        "/images/bedroom-suite.jpg"
+      ],
+      "features": [
+        "Ownership & title verified",
+        "Boundary wall & gate",
+        "Active utilities"
+      ],
+      "postedLabel": "Today",
+      "published": true,
+      "locationId": "bahria-p7-blk-c",
+      "plotNumber": "Plot 45",
+      "areaUnit": "sqft",
+      "areaNumber": 4200,
+      "floors": 2,
+      "constructionYear": 2021,
+      "furnishingStatus": "partially_furnished",
+      "possessionStatus": "ready",
+      "street": "Phase 7 Main Blvd",
+      "attributes": {
+        "carPorch": 1,
+        "boundaryWall": true
+      },
+      "listedAt": 1788048000000,
+      "media": [
+        {
+          "kind": "photo",
+          "url": "/images/villa-modern-white.jpg",
+          "isCover": true,
+          "sort": 0,
+          "caption": "Front elevation",
+          "alt": "10 Marla Family Home, Bahria Town \u2014 front elevation"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/interior-living.jpg",
+          "isCover": false,
+          "sort": 1,
+          "caption": "Living & lounge area",
+          "alt": "10 Marla Family Home, Bahria Town \u2014 living & lounge area"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/bedroom-suite.jpg",
+          "isCover": false,
+          "sort": 2,
+          "caption": "Bedroom",
+          "alt": "10 Marla Family Home, Bahria Town \u2014 bedroom"
+        }
+      ],
+      "featureKeys": [
+        "electricity",
+        "gas",
+        "water",
+        "boundary-wall",
+        "parking",
+        "security",
+        "mosque",
+        "park"
+      ],
+      "latitude": 33.572,
+      "longitude": 73.052
+    },
+    {
+      "id": "3",
+      "slug": "boutique-stone-glass-villa-gulberg-greens",
+      "title": "Boutique Stone & Glass Villa, Gulberg Greens",
+      "kind": "house",
+      "areaLabel": "Gulberg Greens",
+      "citySlug": "islamabad",
+      "cityName": "Islamabad",
+      "subArea": "Sector A",
+      "price": 98000000,
+      "tagKind": "sale",
+      "tagLabel": "EXCLUSIVE",
+      "beds": 5,
+      "baths": 6,
+      "areaRaw": "6,100 sqft",
+      "views": 720,
+      "featured": true,
+      "coverImage": "/images/house-stone-grey.jpg",
+      "purpose": "sale",
+      "currency": "PKR",
+      "priceUnit": "pkr_total",
+      "status": "available",
+      "description": "Boutique Stone & Glass Villa, Gulberg Greens is offered for sale in Islamabad. Title-verified by Manzil's legal desk with clear possession and active utilities. Negotiable with clean paperwork and quick transfer assistance.",
+      "verified": true,
+      "isNew": false,
+      "pricePeriod": "one_time",
+      "priceDisplay": "PKR 9.8 Cr",
+      "gallery": [
+        "/images/house-stone-grey.jpg",
+        "/images/interior-living.jpg",
+        "/images/bedroom-suite.jpg"
+      ],
+      "features": [
+        "Ownership & title verified",
+        "Boundary wall & gate",
+        "Active utilities"
+      ],
+      "postedLabel": "Today",
+      "published": true,
+      "locationId": "gulberg-greens",
+      "areaUnit": "sqft",
+      "areaNumber": 6100,
+      "floors": 2,
+      "constructionYear": 2023,
+      "possessionStatus": "ready",
+      "latitude": 33.694,
+      "longitude": 73.065,
+      "attributes": {
+        "carPorch": 2,
+        "boundaryWall": true
+      },
+      "listedAt": 1787875200000,
+      "media": [
+        {
+          "kind": "photo",
+          "url": "/images/house-stone-grey.jpg",
+          "isCover": true,
+          "sort": 0,
+          "caption": "Front elevation",
+          "alt": "Boutique Stone & Glass Villa, Gulberg Greens \u2014 front elevation"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/interior-living.jpg",
+          "isCover": false,
+          "sort": 1,
+          "caption": "Living & lounge area",
+          "alt": "Boutique Stone & Glass Villa, Gulberg Greens \u2014 living & lounge area"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/bedroom-suite.jpg",
+          "isCover": false,
+          "sort": 2,
+          "caption": "Bedroom",
+          "alt": "Boutique Stone & Glass Villa, Gulberg Greens \u2014 bedroom"
+        }
+      ],
+      "featureKeys": [
+        "electricity",
+        "water",
+        "gas",
+        "boundary-wall",
+        "parking",
+        "security",
+        "cctv",
+        "park"
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "3-bed-luxury-apartment-skyline-tower-gulberg",
+      "title": "3-Bed Luxury Apartment, Skyline Tower",
+      "kind": "apartment",
+      "purpose": "rent",
+      "pricePeriod": "monthly",
+      "areaLabel": "Gulberg",
+      "citySlug": "lahore",
+      "cityName": "Lahore",
+      "subArea": "MM Alam Rd",
+      "price": 320000,
+      "tagKind": "rent",
+      "tagLabel": "HOT",
+      "beds": 3,
+      "baths": 4,
+      "areaRaw": "2,450 sqft",
+      "views": 1580,
+      "isNew": true,
+      "coverImage": "/images/apartment-tower.jpg",
+      "currency": "PKR",
+      "priceUnit": "per_month",
+      "status": "available",
+      "description": "3-Bed Luxury Apartment, Skyline Tower is offered for rent in Lahore. Title-verified by Manzil's legal desk with clear possession and active utilities. Negotiable with clean paperwork and quick transfer assistance.",
+      "verified": true,
+      "featured": false,
+      "priceDisplay": "PKR 3 Lakh /mo",
+      "gallery": [
+        "/images/apartment-tower.jpg",
+        "/images/interior-living.jpg",
+        "/images/bedroom-suite.jpg"
+      ],
+      "features": [
+        "Ownership & title verified",
+        "Boundary wall & gate",
+        "Active utilities"
+      ],
+      "postedLabel": "Today",
+      "published": true,
+      "locationId": "gulberg-mmalam",
+      "plotNumber": "Apt 2103",
+      "areaUnit": "sqft",
+      "areaNumber": 2450,
+      "floors": 1,
+      "constructionYear": 2023,
+      "furnishingStatus": "furnished",
+      "possessionStatus": "ready",
+      "latitude": 31.506,
+      "longitude": 74.345,
+      "attributes": {
+        "floorLevel": 12,
+        "hasLift": true,
+        "parkingBays": 1,
+        "isCorner": false
+      },
+      "listedAt": 1787702400000,
+      "media": [
+        {
+          "kind": "photo",
+          "url": "/images/apartment-tower.jpg",
+          "isCover": true,
+          "sort": 0,
+          "caption": "Front elevation",
+          "alt": "3-Bed Luxury Apartment, Skyline Tower \u2014 front elevation"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/interior-living.jpg",
+          "isCover": false,
+          "sort": 1,
+          "caption": "Living & lounge area",
+          "alt": "3-Bed Luxury Apartment, Skyline Tower \u2014 living & lounge area"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/bedroom-suite.jpg",
+          "isCover": false,
+          "sort": 2,
+          "caption": "Bedroom",
+          "alt": "3-Bed Luxury Apartment, Skyline Tower \u2014 bedroom"
+        }
+      ],
+      "featureKeys": [
+        "electricity",
+        "water",
+        "gas",
+        "security",
+        "cctv",
+        "gym",
+        "swimming-pool",
+        "furnished",
+        "parking",
+        "main-boulevard"
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "500-sqyd-plot-eco-heights-g15-islamabad",
+      "title": "500 Sq Yd Residential Plot, Eco Heights G-15",
+      "kind": "residential-plot",
+      "areaLabel": "Eco Heights",
+      "citySlug": "islamabad",
+      "cityName": "Islamabad",
+      "subArea": "G-15",
+      "price": 24000000,
+      "tagKind": "new",
+      "tagLabel": "INVESTOR PICK",
+      "areaRaw": "500 sq yd",
+      "views": 640,
+      "coverImage": "/images/society-aerial.jpg",
+      "features": [
+        "NOC verified (CDA)",
+        "Corner, park-facing",
+        "File/possession clear",
+        "Registered transfer",
+        "3-year installment plan"
+      ],
+      "purpose": "sale",
+      "currency": "PKR",
+      "priceUnit": "pkr_total",
+      "status": "available",
+      "description": "500 Sq Yd Residential Plot, Eco Heights G-15 is offered for sale in Islamabad. Title-verified by Manzil's legal desk with clear possession and active utilities. Negotiable with clean paperwork and quick transfer assistance.",
+      "verified": true,
+      "featured": false,
+      "isNew": false,
+      "pricePeriod": "one_time",
+      "priceDisplay": "PKR 2.4 Cr",
+      "beds": 0,
+      "baths": 0,
+      "gallery": [
+        "/images/society-aerial.jpg",
+        "/images/interior-living.jpg",
+        "/images/bedroom-suite.jpg"
+      ],
+      "postedLabel": "Today",
+      "published": true,
+      "locationId": "eco-h-sg",
+      "plotNumber": "Plot 12-C",
+      "areaUnit": "sqyd",
+      "areaNumber": 500,
+      "developmentStatus": "under_development",
+      "possessionStatus": "balloting_done",
+      "latitude": 33.64,
+      "longitude": 72.98,
+      "attributes": {
+        "facing": "Park",
+        "cornerPlot": true,
+        "installmentYears": 3
+      },
+      "listedAt": 1787529600000,
+      "media": [
+        {
+          "kind": "photo",
+          "url": "/images/society-aerial.jpg",
+          "isCover": true,
+          "sort": 0,
+          "caption": "Plot site within Eco Heights",
+          "alt": "Aerial view of the residential plot site in Eco Heights G-15"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/city-marquee.jpg",
+          "sort": 1,
+          "caption": "Master plan context",
+          "alt": "Master plan context of Eco Heights"
+        },
+        {
+          "kind": "document",
+          "url": "/media/property-dossier.pdf",
+          "sort": 0,
+          "name": "Plot file & NOC.pdf",
+          "caption": "NOC verified (CDA)",
+          "contentType": "application/pdf",
+          "size": 115201
+        }
+      ],
+      "featureKeys": [
+        "electricity",
+        "gas",
+        "water",
+        "sewerage",
+        "boundary-wall",
+        "park-facing",
+        "corner",
+        "park",
+        "mosque",
+        "school-nearby"
+      ]
+    },
+    {
+      "id": "6",
+      "slug": "designer-villa-f7-islamabad",
+      "title": "Designer Villa, F-7 Markaz",
+      "kind": "house",
+      "areaLabel": "F-7",
+      "citySlug": "islamabad",
+      "cityName": "Islamabad",
+      "subArea": "F-7/3",
+      "price": 119000000,
+      "tagKind": "sale",
+      "tagLabel": "LUXURY",
+      "beds": 4,
+      "baths": 6,
+      "areaRaw": "5,800 sqft",
+      "views": 990,
+      "featured": true,
+      "coverImage": "/images/bedroom-suite.jpg",
+      "purpose": "sale",
+      "currency": "PKR",
+      "priceUnit": "pkr_total",
+      "status": "available",
+      "description": "Designer Villa, F-7 Markaz is offered for sale in Islamabad. Title-verified by Manzil's legal desk with clear possession and active utilities. Negotiable with clean paperwork and quick transfer assistance.",
+      "verified": true,
+      "isNew": false,
+      "pricePeriod": "one_time",
+      "priceDisplay": "PKR 11.9 Cr",
+      "gallery": [
+        "/images/bedroom-suite.jpg",
+        "/images/interior-living.jpg",
+        "/images/bedroom-suite.jpg"
+      ],
+      "features": [
+        "Ownership & title verified",
+        "Boundary wall & gate",
+        "Active utilities"
+      ],
+      "postedLabel": "Today",
+      "published": true,
+      "locationId": "f7",
+      "plotNumber": "Street 25",
+      "areaUnit": "sqft",
+      "areaNumber": 5800,
+      "floors": 2,
+      "constructionYear": 2022,
+      "furnishingStatus": "unfurnished",
+      "possessionStatus": "ready",
+      "street": "Street 25, F-7/3",
+      "attributes": {
+        "carPorch": 2,
+        "solarReady": true
+      },
+      "listedAt": 1787356800000,
+      "media": [
+        {
+          "kind": "photo",
+          "url": "/images/bedroom-suite.jpg",
+          "isCover": true,
+          "sort": 0,
+          "caption": "Front elevation",
+          "alt": "Designer Villa, F-7 Markaz \u2014 front elevation"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/interior-living.jpg",
+          "isCover": false,
+          "sort": 1,
+          "caption": "Living & lounge area",
+          "alt": "Designer Villa, F-7 Markaz \u2014 living & lounge area"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/bedroom-suite.jpg",
+          "isCover": false,
+          "sort": 2,
+          "caption": "Bedroom",
+          "alt": "Designer Villa, F-7 Markaz \u2014 bedroom"
+        }
+      ],
+      "featureKeys": [
+        "electricity",
+        "gas",
+        "water",
+        "sewerage",
+        "boundary-wall",
+        "security",
+        "cctv",
+        "parking",
+        "hospital-nearby",
+        "main-road"
+      ],
+      "latitude": 33.718,
+      "longitude": 73.041
+    },
+    {
+      "id": "7",
+      "slug": "penthouse-seaview-clifton-karachi",
+      "title": "Sea-View Penthouse, Clifton",
+      "kind": "penthouse",
+      "purpose": "rent",
+      "pricePeriod": "monthly",
+      "areaLabel": "Clifton",
+      "citySlug": "karachi",
+      "cityName": "Karachi",
+      "price": 750000,
+      "tagKind": "rent",
+      "tagLabel": "HOT",
+      "beds": 4,
+      "baths": 5,
+      "areaRaw": "5,200 sqft",
+      "views": 1100,
+      "coverImage": "/images/apartment-tower.jpg",
+      "currency": "PKR",
+      "priceUnit": "per_month",
+      "status": "available",
+      "description": "Sea-View Penthouse, Clifton is offered for rent in Karachi. Title-verified by Manzil's legal desk with clear possession and active utilities. Negotiable with clean paperwork and quick transfer assistance.",
+      "verified": true,
+      "featured": false,
+      "isNew": false,
+      "priceDisplay": "PKR 8 Lakh /mo",
+      "gallery": [
+        "/images/apartment-tower.jpg",
+        "/images/interior-living.jpg",
+        "/images/bedroom-suite.jpg"
+      ],
+      "features": [
+        "Ownership & title verified",
+        "Boundary wall & gate",
+        "Active utilities"
+      ],
+      "postedLabel": "Today",
+      "published": true,
+      "locationId": "clifton-blk4",
+      "plotNumber": "Penthouse 9-A",
+      "areaUnit": "sqft",
+      "areaNumber": 5200,
+      "floors": 3,
+      "possessionStatus": "ready",
+      "latitude": 24.824,
+      "longitude": 67.033,
+      "attributes": {
+        "hasLift": true,
+        "parkingBays": 2,
+        "isCorner": false
+      },
+      "listedAt": 1787184000000,
+      "media": [
+        {
+          "kind": "photo",
+          "url": "/images/apartment-tower.jpg",
+          "isCover": true,
+          "sort": 0,
+          "caption": "Sea-view penthouse",
+          "alt": "Sea-view penthouse in Clifton"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/city-marquee.jpg",
+          "sort": 1,
+          "caption": "Skyline & sea view terrace",
+          "alt": "Skyline and sea view from the penthouse terrace"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/bedroom-suite.jpg",
+          "sort": 2,
+          "caption": "En-suite bedroom",
+          "alt": "En-suite bedroom in the penthouse"
+        },
+        {
+          "kind": "video",
+          "url": "https://www.youtube.com/embed/jNQXAC9IVRw",
+          "sort": 0,
+          "name": "Terrace walkthrough",
+          "caption": "Views from the terrace"
+        },
+        {
+          "kind": "virtual_tour",
+          "url": "https://my.matterport.com/show/?m=DEMO-SEAVIEW",
+          "sort": 0,
+          "name": "3D virtual tour",
+          "caption": "Explore the penthouse in 3D"
+        }
+      ],
+      "featureKeys": [
+        "electricity",
+        "water",
+        "gas",
+        "security",
+        "parking",
+        "gym",
+        "swimming-pool",
+        "furnished",
+        "roof-access"
+      ]
+    },
+    {
+      "id": "8",
+      "slug": "1-kanal-corner-villa-bahria-town-rawalpindi",
+      "title": "1 Kanal Corner Villa, Bahria Town",
+      "kind": "house",
+      "areaLabel": "Bahria Town",
+      "citySlug": "rawalpindi",
+      "cityName": "Rawalpindi",
+      "subArea": "Phase 8 \u00b7 Sector E",
+      "price": 210000000,
+      "tagKind": "sale",
+      "tagLabel": "FEATURED",
+      "beds": 6,
+      "baths": 8,
+      "areaRaw": "1 Kanal",
+      "views": 810,
+      "featured": true,
+      "coverImage": "/images/city-marquee.jpg",
+      "purpose": "sale",
+      "currency": "PKR",
+      "priceUnit": "pkr_total",
+      "status": "available",
+      "description": "1 Kanal Corner Villa, Bahria Town is offered for sale in Rawalpindi. Title-verified by Manzil's legal desk with clear possession and active utilities. Negotiable with clean paperwork and quick transfer assistance.",
+      "verified": true,
+      "isNew": false,
+      "pricePeriod": "one_time",
+      "priceDisplay": "PKR 21 Cr",
+      "gallery": [
+        "/images/city-marquee.jpg",
+        "/images/interior-living.jpg",
+        "/images/bedroom-suite.jpg"
+      ],
+      "features": [
+        "Ownership & title verified",
+        "Boundary wall & gate",
+        "Active utilities"
+      ],
+      "postedLabel": "Today",
+      "published": true,
+      "locationId": "bahria-p8-se",
+      "areaUnit": "kanal",
+      "areaNumber": 1,
+      "floors": 2,
+      "constructionYear": 2020,
+      "furnishingStatus": "unfurnished",
+      "possessionStatus": "ready",
+      "attributes": {
+        "carPorch": 2,
+        "garage": 2,
+        "boundaryWall": true
+      },
+      "listedAt": 1787011200000,
+      "media": [
+        {
+          "kind": "photo",
+          "url": "/images/city-marquee.jpg",
+          "isCover": true,
+          "sort": 0,
+          "caption": "Front elevation",
+          "alt": "1 Kanal Corner Villa, Bahria Town \u2014 front elevation"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/interior-living.jpg",
+          "isCover": false,
+          "sort": 1,
+          "caption": "Living & lounge area",
+          "alt": "1 Kanal Corner Villa, Bahria Town \u2014 living & lounge area"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/bedroom-suite.jpg",
+          "isCover": false,
+          "sort": 2,
+          "caption": "Bedroom",
+          "alt": "1 Kanal Corner Villa, Bahria Town \u2014 bedroom"
+        }
+      ],
+      "featureKeys": [
+        "electricity",
+        "gas",
+        "water",
+        "sewerage",
+        "boundary-wall",
+        "security",
+        "cctv",
+        "parking",
+        "corner",
+        "park-facing",
+        "servant-quarter"
+      ],
+      "latitude": 33.565,
+      "longitude": 73.095
+    },
+    {
+      "id": "9",
+      "slug": "10-marla-plots-bahria-town-karachi",
+      "title": "10 Marla Corner Plots, Bahria Town Karachi",
+      "kind": "residential-plot",
+      "areaLabel": "Bahria Town",
+      "citySlug": "karachi",
+      "cityName": "Karachi",
+      "subArea": "Precinct 19",
+      "price": 35000000,
+      "tagKind": "new",
+      "tagLabel": "PRE-LAUNCH",
+      "areaRaw": "10 Marla",
+      "views": 430,
+      "coverImage": "/images/society-aerial.jpg",
+      "purpose": "sale",
+      "currency": "PKR",
+      "priceUnit": "pkr_total",
+      "status": "available",
+      "description": "10 Marla Corner Plots, Bahria Town Karachi is offered for sale in Karachi. Title-verified by Manzil's legal desk with clear possession and active utilities. Negotiable with clean paperwork and quick transfer assistance.",
+      "verified": true,
+      "featured": false,
+      "isNew": false,
+      "pricePeriod": "one_time",
+      "priceDisplay": "PKR 3.5 Cr",
+      "beds": 0,
+      "baths": 0,
+      "gallery": [
+        "/images/society-aerial.jpg",
+        "/images/interior-living.jpg",
+        "/images/bedroom-suite.jpg"
+      ],
+      "features": [
+        "Ownership & title verified",
+        "Boundary wall & gate",
+        "Active utilities"
+      ],
+      "postedLabel": "Today",
+      "published": true,
+      "locationId": "bahria-khi-p19",
+      "plotNumber": "Plot 41 & 42 (corner)",
+      "areaUnit": "marla",
+      "areaNumber": 10,
+      "developmentStatus": "under_development",
+      "possessionStatus": "balloting_done",
+      "attributes": {
+        "cornerPlot": true
+      },
+      "listedAt": 1786838400000,
+      "media": [
+        {
+          "kind": "photo",
+          "url": "/images/society-aerial.jpg",
+          "isCover": true,
+          "sort": 0,
+          "caption": "Front elevation",
+          "alt": "10 Marla Corner Plots, Bahria Town Karachi \u2014 front elevation"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/interior-living.jpg",
+          "isCover": false,
+          "sort": 1,
+          "caption": "Living & lounge area",
+          "alt": "10 Marla Corner Plots, Bahria Town Karachi \u2014 living & lounge area"
+        },
+        {
+          "kind": "photo",
+          "url": "/images/bedroom-suite.jpg",
+          "isCover": false,
+          "sort": 2,
+          "caption": "Bedroom",
+          "alt": "10 Marla Corner Plots, Bahria Town Karachi \u2014 bedroom"
+        }
+      ],
+      "featureKeys": [
+        "electricity",
+        "water",
+        "gas",
+        "sewerage",
+        "boundary-wall",
+        "corner",
+        "mosque",
+        "school-nearby"
+      ],
+      "latitude": 24.986,
+      "longitude": 67.14
+    },
+    {
+      "featured": true,
+      "purpose": "sale",
+      "currency": "PKR",
+      "priceUnit": "pkr_total",
+      "status": "available",
+      "verified": true,
+      "pricePeriod": "one_time",
+      "priceDisplay": "PKR 4.2 Cr",
+      "gallery": [
+        "/images/villa-modern-white.jpg",
+        "/images/interior-living.jpg",
+        "/images/bedroom-suite.jpg"
+      ],
+      "postedLabel": "Today",
+      "published": true,
+      "floors": 2,
+      "constructionYear": 2024,
+      "furnishingStatus": "unfurnished",
+      "possessionStatus": "ready",
+      "street": "Street 25",
+      "attributes": {
+        "carPorch": 2,
+        "solarReady": true,
+        "internalLift": true,
+        "garage": 2
+      },
+      "listedAt": 1788220800000,
+      "id": "10",
+      "slug": "modern-5-marla-house-dha-phase-6-lahore",
+      "title": "5 Marla Modern House, DHA Phase 6 Block A",
+      "headline": "Freshly built family home in a settled block",
+      "kind": "house",
+      "areaLabel": "DHA Phase 6",
+      "citySlug": "lahore",
+      "cityName": "Lahore",
+      "subArea": "Sector A \u00b7 Block A",
+      "locationId": "dha-ph6-sec-a-blk-a",
+      "plotNumber": "House 22-B",
+      "price": 42000000,
+      "tagKind": "new",
+      "tagLabel": "NEW",
+      "beds": 3,
+      "baths": 4,
+      "areaRaw": "2,900 sqft",
+      "areaNumber": 2900,
+      "areaUnit": "sqft",
+      "views": 540,
+      "isNew": true,
+      "coverImage": "/images/villa-modern-white.jpg",
+      "features": [
+        "5 Marla covered house",
+        "Boundary wall & gate",
+        "Ownership & title verified",
+        "Fully developed block",
+        "Park-facing street",
+        "Solar-ready wiring"
+      ],
+      "featureKeys": [
+        "electricity",
+        "gas",
+        "water",
+        "sewerage",
+        "boundary-wall",
+        "security",
+        "parking",
+        "park-facing"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "/images/villa-modern-white.jpg",
+          "isCover": true,
+          "sort": 0,
+          "alt": "5 Marla Modern House, DHA Phase 6 Block A \u2014 photo 1",
+          "width": 1200,
+          "height": 896
+        },
+        {
+          "kind": "photo",
+          "url": "/images/interior-living.jpg",
+          "isCover": false,
+          "sort": 1,
+          "alt": "5 Marla Modern House, DHA Phase 6 Block A \u2014 photo 2",
+          "width": 1200,
+          "height": 896
+        },
+        {
+          "kind": "photo",
+          "url": "/images/bedroom-suite.jpg",
+          "isCover": false,
+          "sort": 2,
+          "alt": "5 Marla Modern House, DHA Phase 6 Block A \u2014 photo 3",
+          "width": 1200,
+          "height": 896
+        }
+      ],
+      "latitude": 31.4332,
+      "longitude": 74.4095
+    },
+    {
+      "purpose": "sale",
+      "currency": "PKR",
+      "priceUnit": "pkr_total",
+      "status": "available",
+      "verified": true,
+      "featured": false,
+      "pricePeriod": "one_time",
+      "priceDisplay": "PKR 2.6 Cr",
+      "gallery": [
+        "/images/society-aerial.jpg",
+        "/images/city-marquee.jpg"
+      ],
+      "postedLabel": "Today",
+      "published": true,
+      "developmentStatus": "under_development",
+      "possessionStatus": "balloting_done",
+      "attributes": {
+        "facing": "Park",
+        "cornerPlot": true,
+        "installmentYears": 3
+      },
+      "listedAt": 1787529600000,
+      "id": "11",
+      "slug": "5-marla-residential-plot-dha-phase-6-lahore",
+      "title": "5 Marla Residential Plot, DHA Phase 6 Block B",
+      "headline": "Corner plot in a settled Phase 6 block",
+      "kind": "residential-plot",
+      "areaLabel": "DHA Phase 6",
+      "citySlug": "lahore",
+      "cityName": "Lahore",
+      "subArea": "Sector A \u00b7 Block B",
+      "locationId": "dha-ph6-sec-a-blk-b",
+      "plotNumber": "Plot 17 (corner)",
+      "price": 26000000,
+      "tagKind": "sale",
+      "tagLabel": "INVESTOR PICK",
+      "areaRaw": "5 Marla",
+      "areaNumber": 5,
+      "areaUnit": "marla",
+      "views": 470,
+      "isNew": false,
+      "coverImage": "/images/society-aerial.jpg",
+      "features": [
+        "Corner, park-facing",
+        "Clear DHA file/possession",
+        "Registered transfer",
+        "Active utilities at plot line",
+        "Resale & rental demand"
+      ],
+      "featureKeys": [
+        "electricity",
+        "gas",
+        "water",
+        "sewerage",
+        "boundary-wall",
+        "corner",
+        "park-facing",
+        "park",
+        "mosque"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "/images/society-aerial.jpg",
+          "isCover": true,
+          "sort": 0,
+          "alt": "5 Marla Residential Plot, DHA Phase 6 Block B \u2014 photo 1",
+          "width": 1200,
+          "height": 896
+        },
+        {
+          "kind": "photo",
+          "url": "/images/city-marquee.jpg",
+          "isCover": false,
+          "sort": 1,
+          "alt": "5 Marla Residential Plot, DHA Phase 6 Block B \u2014 photo 2",
+          "width": 1376,
+          "height": 768
+        }
+      ],
+      "latitude": 31.4341,
+      "longitude": 74.4112
+    }
+  ],
+  "projects": [
+    {
+      "id": "p1",
+      "slug": "eco-heights-housing-society",
+      "name": "Eco Heights Housing Society",
+      "category": "Private Society",
+      "status": "pre_launch",
+      "location": "G-15, Islamabad",
+      "priceFrom": "PKR 38 Lakh",
+      "units": "5 Marla \u2013 1 Kanal",
+      "image": "/images/society-aerial.jpg",
+      "description": "New biometric-gated residential scheme in G-15 Islamabad with parks, masjid and full utilities. Files available at pre-launch rates with 3-year installment plans.",
+      "featured": true
+    },
+    {
+      "id": "p2",
+      "slug": "skyline-residences-gulberg-lahore",
+      "name": "Skyline Residences",
+      "category": "Branded Tower",
+      "status": "booking",
+      "location": "Gulberg, Lahore",
+      "priceFrom": "PKR 2.4 Cr",
+      "units": "1\u20134 bed apartments",
+      "image": "/images/apartment-tower.jpg",
+      "description": "A 31-floor iconic tower by a reputed developer. Rooftop infinity pool, concierge and branded interiors. Handover 2027 with milestone-based payments.",
+      "featured": true
+    },
+    {
+      "id": "p3",
+      "slug": "bahria-town-sapphire",
+      "name": "Bahria Town Sapphire",
+      "category": "Gated Community",
+      "status": "possession",
+      "location": "Bahria Town, Rawalpindi",
+      "priceFrom": "PKR 48 Lakh",
+      "units": "5 Marla \u2013 1 Kanal",
+      "image": "/images/city-marquee.jpg",
+      "description": "Self-contained community with mosques, theme parks and a golf course. Full possession and development in progress.",
+      "featured": true
+    },
+    {
+      "id": "p4",
+      "slug": "vista-green-dha-city",
+      "name": "Vista Green, DHA City",
+      "category": "JDA Scheme",
+      "status": "booking",
+      "location": "DHA City, Lahore",
+      "priceFrom": "PKR 1.2 Cr",
+      "units": "10 Marla houses",
+      "image": "/images/house-stone-grey.jpg",
+      "description": "Contemporary 10-Marla homes in a new DHA City sector, offering modern living at a compelling price point.",
+      "featured": false
+    }
+  ],
+  "cities": [
+    {
+      "slug": "islamabad",
+      "name": "Islamabad",
+      "listings": 640
+    },
+    {
+      "slug": "lahore",
+      "name": "Lahore",
+      "listings": 1210
+    },
+    {
+      "slug": "karachi",
+      "name": "Karachi",
+      "listings": 520
+    },
+    {
+      "slug": "rawalpindi",
+      "name": "Rawalpindi",
+      "listings": 1080
+    },
+    {
+      "slug": "peshawar",
+      "name": "Peshawar",
+      "listings": 210
+    },
+    {
+      "slug": "faisalabad",
+      "name": "Faisalabad",
+      "listings": 175
+    }
+  ],
+  "locations": [
+    {
+      "id": "pk",
+      "parentId": null,
+      "level": "country",
+      "name": "Pakistan",
+      "slug": "pakistan"
+    },
+    {
+      "id": "punjab",
+      "parentId": "pk",
+      "level": "province",
+      "name": "Punjab",
+      "slug": "punjab"
+    },
+    {
+      "id": "isb-cap",
+      "parentId": "pk",
+      "level": "province",
+      "name": "Islamabad Capital Territory",
+      "slug": "islamabad-capital-territory"
+    },
+    {
+      "id": "sindh",
+      "parentId": "pk",
+      "level": "province",
+      "name": "Sindh",
+      "slug": "sindh"
+    },
+    {
+      "id": "kpk",
+      "parentId": "pk",
+      "level": "province",
+      "name": "Khyber Pakhtunkhwa",
+      "slug": "khyber-pakhtunkhwa"
+    },
+    {
+      "id": "lahore",
+      "parentId": "punjab",
+      "level": "city",
+      "name": "Lahore",
+      "slug": "lahore"
+    },
+    {
+      "id": "rawalpindi",
+      "parentId": "punjab",
+      "level": "city",
+      "name": "Rawalpindi",
+      "slug": "rawalpindi"
+    },
+    {
+      "id": "faisalabad",
+      "parentId": "punjab",
+      "level": "city",
+      "name": "Faisalabad",
+      "slug": "faisalabad"
+    },
+    {
+      "id": "islamabad",
+      "parentId": "isb-cap",
+      "level": "city",
+      "name": "Islamabad",
+      "slug": "islamabad"
+    },
+    {
+      "id": "karachi",
+      "parentId": "sindh",
+      "level": "city",
+      "name": "Karachi",
+      "slug": "karachi"
+    },
+    {
+      "id": "gulberg-greens",
+      "parentId": "islamabad",
+      "level": "project",
+      "name": "Gulberg Greens",
+      "slug": "gulberg-greens"
+    },
+    {
+      "id": "f7",
+      "parentId": "islamabad",
+      "level": "area",
+      "name": "F-7",
+      "slug": "f-7"
+    },
+    {
+      "id": "e11",
+      "parentId": "islamabad",
+      "level": "area",
+      "name": "E-11",
+      "slug": "e-11"
+    },
+    {
+      "id": "eco-heights",
+      "parentId": "islamabad",
+      "level": "project",
+      "name": "Eco Heights Housing Society",
+      "slug": "eco-heights-housing-society"
+    },
+    {
+      "id": "eco-h-p1",
+      "parentId": "eco-heights",
+      "level": "phase",
+      "name": "Phase 1",
+      "slug": "phase-1"
+    },
+    {
+      "id": "eco-h-sg",
+      "parentId": "eco-h-p1",
+      "level": "sector",
+      "name": "Sector G",
+      "slug": "sector-g"
+    },
+    {
+      "id": "dha",
+      "parentId": "lahore",
+      "level": "area",
+      "name": "DHA",
+      "slug": "dha"
+    },
+    {
+      "id": "dha-lahore",
+      "parentId": "dha",
+      "level": "project",
+      "name": "DHA Lahore",
+      "slug": "dha-lahore"
+    },
+    {
+      "id": "dha-ph8",
+      "parentId": "dha-lahore",
+      "level": "phase",
+      "name": "Phase 8",
+      "slug": "phase-8"
+    },
+    {
+      "id": "dha-ph8-blk-j",
+      "parentId": "dha-ph8",
+      "level": "block",
+      "name": "Block J",
+      "slug": "block-j"
+    },
+    {
+      "id": "gulberg",
+      "parentId": "lahore",
+      "level": "area",
+      "name": "Gulberg",
+      "slug": "gulberg"
+    },
+    {
+      "id": "gulberg-mmalam",
+      "parentId": "gulberg",
+      "level": "block",
+      "name": "MM Alam Road",
+      "slug": "mm-alam-road"
+    },
+    {
+      "id": "bahria-rwp",
+      "parentId": "rawalpindi",
+      "level": "project",
+      "name": "Bahria Town",
+      "slug": "bahria-town"
+    },
+    {
+      "id": "bahria-p7",
+      "parentId": "bahria-rwp",
+      "level": "phase",
+      "name": "Phase 7",
+      "slug": "phase-7"
+    },
+    {
+      "id": "bahria-p7-blk-c",
+      "parentId": "bahria-p7",
+      "level": "block",
+      "name": "Block C",
+      "slug": "block-c"
+    },
+    {
+      "id": "bahria-p8",
+      "parentId": "bahria-rwp",
+      "level": "phase",
+      "name": "Phase 8",
+      "slug": "phase-8"
+    },
+    {
+      "id": "bahria-p8-se",
+      "parentId": "bahria-p8",
+      "level": "sector",
+      "name": "Sector E",
+      "slug": "sector-e"
+    },
+    {
+      "id": "clifton",
+      "parentId": "karachi",
+      "level": "area",
+      "name": "Clifton",
+      "slug": "clifton"
+    },
+    {
+      "id": "clifton-blk4",
+      "parentId": "clifton",
+      "level": "block",
+      "name": "Block 4",
+      "slug": "block-4"
+    },
+    {
+      "id": "bahria-khi",
+      "parentId": "karachi",
+      "level": "project",
+      "name": "Bahria Town Karachi",
+      "slug": "bahria-town-karachi"
+    },
+    {
+      "id": "bahria-khi-p19",
+      "parentId": "bahria-khi",
+      "level": "block",
+      "name": "Precinct 19",
+      "slug": "precinct-19"
+    },
+    {
+      "id": "dha-ph6",
+      "parentId": "dha-lahore",
+      "level": "phase",
+      "name": "Phase 6",
+      "slug": "phase-6"
+    },
+    {
+      "id": "dha-ph6-sec-a",
+      "parentId": "dha-ph6",
+      "level": "sector",
+      "name": "Sector A",
+      "slug": "sector-a"
+    },
+    {
+      "id": "dha-ph6-sec-a-blk-a",
+      "parentId": "dha-ph6-sec-a",
+      "level": "block",
+      "name": "Block A",
+      "slug": "block-a"
+    },
+    {
+      "id": "dha-ph6-sec-a-blk-b",
+      "parentId": "dha-ph6-sec-a",
+      "level": "block",
+      "name": "Block B",
+      "slug": "block-b"
+    },
+    {
+      "id": "dha-ph6-sec-b",
+      "parentId": "dha-ph6",
+      "level": "sector",
+      "name": "Sector B",
+      "slug": "sector-b"
+    },
+    {
+      "id": "dha-ph6-sec-b-blk-c",
+      "parentId": "dha-ph6-sec-b",
+      "level": "block",
+      "name": "Block C",
+      "slug": "block-c"
+    },
+    {
+      "id": "dha-ph7",
+      "parentId": "dha-lahore",
+      "level": "phase",
+      "name": "Phase 7",
+      "slug": "phase-7"
+    }
+  ],
+  "features": [
+    {
+      "key": "electricity",
+      "label": "Electricity",
+      "category": "Utilities"
+    },
+    {
+      "key": "gas",
+      "label": "Gas",
+      "category": "Utilities"
+    },
+    {
+      "key": "water",
+      "label": "Water",
+      "category": "Utilities"
+    },
+    {
+      "key": "sewerage",
+      "label": "Sewerage",
+      "category": "Utilities"
+    },
+    {
+      "key": "boundary-wall",
+      "label": "Boundary Wall",
+      "category": "Structure"
+    },
+    {
+      "key": "basement",
+      "label": "Basement",
+      "category": "Structure"
+    },
+    {
+      "key": "roof-access",
+      "label": "Roof Access",
+      "category": "Structure"
+    },
+    {
+      "key": "servant-quarter",
+      "label": "Servant Quarter",
+      "category": "Structure"
+    },
+    {
+      "key": "parking",
+      "label": "Parking",
+      "category": "Parking & Security"
+    },
+    {
+      "key": "security",
+      "label": "Security",
+      "category": "Parking & Security"
+    },
+    {
+      "key": "cctv",
+      "label": "CCTV",
+      "category": "Parking & Security"
+    },
+    {
+      "key": "swimming-pool",
+      "label": "Swimming Pool",
+      "category": "Amenities"
+    },
+    {
+      "key": "gym",
+      "label": "Gym",
+      "category": "Amenities"
+    },
+    {
+      "key": "park",
+      "label": "Park",
+      "category": "Amenities"
+    },
+    {
+      "key": "mosque",
+      "label": "Mosque",
+      "category": "Amenities"
+    },
+    {
+      "key": "furnished",
+      "label": "Furnished",
+      "category": "Furnishing"
+    },
+    {
+      "key": "semi-furnished",
+      "label": "Semi Furnished",
+      "category": "Furnishing"
+    },
+    {
+      "key": "unfurnished",
+      "label": "Unfurnished",
+      "category": "Furnishing"
+    },
+    {
+      "key": "school-nearby",
+      "label": "School Nearby",
+      "category": "Location & Facing"
+    },
+    {
+      "key": "hospital-nearby",
+      "label": "Hospital Nearby",
+      "category": "Location & Facing"
+    },
+    {
+      "key": "main-boulevard",
+      "label": "Main Boulevard",
+      "category": "Location & Facing"
+    },
+    {
+      "key": "corner",
+      "label": "Corner",
+      "category": "Location & Facing"
+    },
+    {
+      "key": "park-facing",
+      "label": "Park Facing",
+      "category": "Location & Facing"
+    },
+    {
+      "key": "main-road",
+      "label": "Main Road",
+      "category": "Location & Facing"
+    }
+  ],
+  "cms": {
+    "heroHeading": "Find the home that feels like yours.",
+    "heroTagline": "Manzil pairs a national marketplace with senior advisors, so you can search, compare and close on Pakistan's finest houses, plots and developments \u2014 with total confidence.",
+    "whyTitle": "Buy, sell & invest without the guesswork",
+    "contactEmail": "info@manzil.pk",
+    "contactPhone": "+92 300 000 0000"
+  },
+  "agents": [
+    {
+      "id": "ar",
+      "name": "Ayesha Raza",
+      "role": "Senior Advisor \u00b7 Islamabad & Lahore",
+      "initials": "AR",
+      "stars": 4.9,
+      "closings": 148,
+      "phone": "+92 300 000 0000",
+      "phoneHref": "+923000000000",
+      "whatsapp": "923000000000",
+      "email": "ayesha@manzil.pk",
+      "languages": "English \u00b7 Urdu",
+      "cities": [
+        "islamabad",
+        "lahore"
+      ],
+      "bio": "",
+      "specialization": "",
+      "active": true
+    },
+    {
+      "id": "bk",
+      "name": "Bilal Khan",
+      "role": "Head of Legal & Due Diligence",
+      "initials": "BK",
+      "stars": 4.9,
+      "closings": 320,
+      "phone": "+92 300 111 0000",
+      "phoneHref": "+923001110000",
+      "whatsapp": "923001110000",
+      "email": "bilal@manzil.pk",
+      "languages": "English \u00b7 Urdu \u00b7 Punjabi",
+      "cities": [],
+      "bio": "",
+      "specialization": "",
+      "active": true
+    },
+    {
+      "id": "hk",
+      "name": "Hina Khalid",
+      "role": "Karachi Region Lead",
+      "initials": "HK",
+      "stars": 4.8,
+      "closings": 132,
+      "phone": "+92 300 222 0000",
+      "phoneHref": "+923002220000",
+      "whatsapp": "923002220000",
+      "email": "hina@manzil.pk",
+      "languages": "English \u00b7 Urdu",
+      "cities": [
+        "karachi"
+      ],
+      "bio": "",
+      "specialization": "",
+      "active": true
+    },
+    {
+      "id": "om",
+      "name": "Omar Mehmood",
+      "role": "Commercial & Investment Advisor",
+      "initials": "OM",
+      "stars": 4.9,
+      "closings": 210,
+      "phone": "+92 300 333 0000",
+      "phoneHref": "+923003330000",
+      "whatsapp": "923003330000",
+      "email": "omar@manzil.pk",
+      "languages": "English \u00b7 Urdu",
+      "cities": [
+        "rawalpindi",
+        "peshawar"
+      ],
+      "bio": "",
+      "specialization": "",
+      "active": true
+    },
+    {
+      "id": "as",
+      "name": "Ali Shah",
+      "role": "Rawalpindi & New Developments",
+      "initials": "AS",
+      "stars": 4.7,
+      "closings": 178,
+      "phone": "+92 300 444 0000",
+      "phoneHref": "+923004440000",
+      "whatsapp": "923004440000",
+      "email": "ali@manzil.pk",
+      "languages": "English \u00b7 Urdu",
+      "cities": [
+        "rawalpindi"
+      ],
+      "bio": "",
+      "specialization": "",
+      "active": true
+    },
+    {
+      "id": "sf",
+      "name": "Sara Farooq",
+      "role": "Overseas Sales \u00b7 UK / UAE desk",
+      "initials": "SF",
+      "stars": 4.8,
+      "closings": 96,
+      "phone": "+92 300 555 0000",
+      "phoneHref": "+923005550000",
+      "whatsapp": "923005550000",
+      "email": "sara@manzil.pk",
+      "languages": "English \u00b7 Urdu",
+      "cities": [],
+      "bio": "",
+      "specialization": "",
+      "active": true
+    }
+  ],
+  "leads": [
+    {
+      "id": "lead-demo-1",
+      "name": "Usman Tariq",
+      "phone": "+92 321 555 0101",
+      "email": "usman.t@example.com",
+      "listingId": "10",
+      "listingSlug": "modern-5-marla-house-dha-phase-6-lahore",
+      "listingTitle": "5 Marla Modern House, DHA Phase 6",
+      "message": "Is the DHA Phase 6 house still available? Can I see it this weekend?",
+      "source": "web",
+      "status": "new",
+      "createdAt": 1788189048232,
+      "updatedAt": 1788189048232
+    },
+    {
+      "id": "lead-demo-2",
+      "name": "Maria Qureshi",
+      "phone": "+92 300 555 0202",
+      "email": "maria.q@example.com",
+      "listingId": "11",
+      "listingSlug": "5-marla-residential-plot-dha-phase-6-lahore",
+      "listingTitle": "5 Marla Residential Plot, DHA Phase 6",
+      "message": "Interested in the corner plot. What is the total with transfer?",
+      "source": "whatsapp",
+      "status": "contacted",
+      "createdAt": 1788016248232,
+      "updatedAt": 1788275448232
+    },
+    {
+      "id": "lead-demo-3",
+      "name": "Ahmed Rizvi",
+      "phone": "+92 333 555 0303",
+      "email": "a.rizvi@example.com",
+      "listingId": "3",
+      "listingSlug": "boutique-stone-glass-villa-gulberg-greens",
+      "listingTitle": "Boutique Stone & Glass Villa, Gulberg Greens",
+      "message": "Could you arrange a virtual tour for the Gulberg villa?",
+      "source": "referral",
+      "status": "follow_up",
+      "createdAt": 1787757048232,
+      "updatedAt": 1788361848232
+    },
+    {
+      "id": "lead-demo-4",
+      "name": "Fatima Noor",
+      "phone": "+92 311 555 0404",
+      "email": "fatima.noor@example.com",
+      "listingId": "1",
+      "listingSlug": "modern-luxury-villa-dha-phase-8-lahore",
+      "listingTitle": "1 Kanal Modern Luxury Villa, DHA Phase 8",
+      "message": "We would like to book an on-site visit on Saturday.",
+      "source": "social",
+      "status": "converted",
+      "createdAt": 1787411448232,
+      "updatedAt": 1788102648232
+    },
+    {
+      "id": "lead-demo-5",
+      "name": "Kamran Saeed",
+      "phone": "+92 345 555 0505",
+      "email": "kamran.s@example.com",
+      "message": "Looking for a 10 marla plot in Rawalpindi under 4 crore. Please reach out.",
+      "source": "call",
+      "status": "new",
+      "createdAt": 1788361848232,
+      "updatedAt": 1788361848232
+    }
+  ]
+}
