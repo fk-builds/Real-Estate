@@ -35,3 +35,6 @@ yarn-error.log*
 /scripts/diag.mjs
 /scripts/cap.mjs
 /scripts/shot.mjs
+
+# local screenshot scratch scripts (root-level, not part of the app)
+/^[a-z_]+\.js$
